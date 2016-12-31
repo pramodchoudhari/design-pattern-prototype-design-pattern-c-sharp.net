@@ -1,0 +1,6 @@
+F:\poc\DesignPatterns\PrototypeDesignPatternInCSharp.Net\PrototypeDesignPatternInCSharp.Net\bin\Debug\PrototypeDesignPatternInCSharp.Net.exe.config
+F:\poc\DesignPatterns\PrototypeDesignPatternInCSharp.Net\PrototypeDesignPatternInCSharp.Net\bin\Debug\PrototypeDesignPatternInCSharp.Net.exe
+F:\poc\DesignPatterns\PrototypeDesignPatternInCSharp.Net\PrototypeDesignPatternInCSharp.Net\bin\Debug\PrototypeDesignPatternInCSharp.Net.pdb
+F:\poc\DesignPatterns\PrototypeDesignPatternInCSharp.Net\PrototypeDesignPatternInCSharp.Net\obj\Debug\PrototypeDesignPatternInCSharp.Net.csprojResolveAssemblyReference.cache
+F:\poc\DesignPatterns\PrototypeDesignPatternInCSharp.Net\PrototypeDesignPatternInCSharp.Net\obj\Debug\PrototypeDesignPatternInCSharp.Net.exe
+F:\poc\DesignPatterns\PrototypeDesignPatternInCSharp.Net\PrototypeDesignPatternInCSharp.Net\obj\Debug\PrototypeDesignPatternInCSharp.Net.pdb
