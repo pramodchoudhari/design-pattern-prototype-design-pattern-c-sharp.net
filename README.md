@@ -9,39 +9,39 @@ This repository explains what is prototype design pattern and its example in c-s
 
 So its a solution to recurring problem. 
 
-# Types of Design Pattern 
+## Types of Design Pattern 
 There are 23 design patterns, those are also known as Gang of Four (GoF) design patterns. 
 These 23 patterns are grouped into three main categories based on their types:
 "Design Patterns: Elements of Reusable Object Oriented Software".
 
-# Creational Design Pattern
+### Creational Design Pattern
 
-Factory Method
-Abstract Factory
-Singleton
-Builder
-Prototype
+1. Factory Method
+2. Abstract Factory
+3. Singleton
+4. Builder
+5. Prototype
 
-# Structural Design Patterns
+### Structural Design Patterns
 
-Proxy
-Facade
-Adapter
-Bridge
-Composite
-Flyweight
-Decorator
+1. Proxy
+2. Facade
+3. Adapter
+4. Bridge
+5. Composite
+6. Flyweight
+7. Decorator
 
-# Behavioral Design Patterns
+### Behavioral Design Patterns
 
-Chain of Responsibility
-Observer
-Memento
-Command
-Interpreter
-Iterator
-Mediator
-State
-Strategy
-Visitor
-Template Method
+1. Chain of Responsibility
+2. Observer
+3. Memento
+4. Command
+5. Interpreter
+6. Iterator
+7. Mediator
+8. State
+9. Strategy
+10. Visitor
+11. Template Method
